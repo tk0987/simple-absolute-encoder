@@ -10,3 +10,5 @@ glue small magnet at the end of a screw, and position hall sensor close to it. t
 # ADC can be noisy
 
 so, then make 1000 measurements (lets say) and make an average. shall work
+
+# if your hardware has only 1 ADC, then it can have GPIOs - in order to multiplexing hallotrons
